@@ -1,37 +1,38 @@
-### Hai di sana! 👋 Saya Yasmin Amani
+### Hello there! 👋 I'm Yasmin Amani
 
-Selamat datang ke profil GitHub saya! Saya sedang dalam fasa pembelajaran untuk menjadi seorang pembangun perisian (software developer) yang hebat. 
+<p align="center">
+  <img src="YOUR_PROFILE_PORTRAIT_URL_OR_PATH" alt="Yasmin Amani Profile" width="200" style="border-radius: 50%;">
+</p>
 
----
-
-### 👩‍💻 Mengenai Saya
-- 🔭 Saya sedang belajar asas pengaturcaraan dan **GitHub**.
-- 🌱 Saya berminat untuk mendalami bidang Pembangunan Web (*Web Development*).
-- ⚡ Fun fact: Saya suka mencuba teknologi baru dan menyelesaikan masalah logik!
+Welcome to my GitHub profile! I am currently learning the ropes of software development and building my tech foundation.
 
 ---
 
-### 🛠️ Bahasa & Alatan Yang Dipelajari
-Berikut adalah beberapa teknologi yang sedang saya terokai:
+### 👩‍💻 About Me
+- 🔭 I’m currently learning the fundamentals of programming and **GitHub**.
+- 🌱 I’m interested in diving deeper into **Web Development**.
+- ⚡ Fun fact: I love exploring new technology and solving logical puzzles!
 
-| Kategori | Teknologi / Alatan |
+---
+
+### 🛠️ Languages & Tools
+Here are some of the technologies I am currently learning:
+
+| Category | Technologies / Tools |
 | :--- | :--- |
-| **Bahasa Pengaturcaraan** | HTML, CSS, JavaScript |
-| **Alatan (Tools)** | Git, GitHub, VS Code |
+| **Languages** | HTML, CSS, JavaScript |
+| **Tools & Platforms** | Git, GitHub, VS Code |
 
 ---
-
-### 📊 Statistik GitHub Saya
-*(Nota: Anda boleh paparkan statistik anda menggunakan widget percuma di bawah!)*
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=NAMA_PENGGUNA_GITHUB_ANDA&show_icons=true&theme=radical" alt="Statistik GitHub Yasmin" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Yasmin's GitHub Stats" />
 </p>
 
 ---
 
-### 📫 Hubungi Saya
-- LinkedIn: [Nama Anda](https://linkedin.com)
-- E-mel: emelanda@example.com
+### 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/yasmin-a-bab150343
+- Email: yasminamani@graduate.utm
 
-*Terima kasih kerana sudi singgah ke profil saya! ✨*
+*Thanks for stopping by! ✨*
