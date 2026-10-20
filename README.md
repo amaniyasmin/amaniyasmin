@@ -1,7 +1,7 @@
 ### Hello there! 👋 I'm Yasmin Amani
 
 <p align="center">
-  <img src="YOUR_PROFILE_PORTRAIT_URL_OR_PATH" alt="Yasmin Amani Profile" width="200" style="border-radius: 50%;">
+  <img src="YOUR_PROFILE_PORTRAIT_URL_OR_PATH.jpeg" alt="Yasmin Amani Profile" width="200" style="border-radius: 50%;">
 </p>
 
 Welcome to my GitHub profile! I am currently learning the ropes of software development and building my tech foundation.
