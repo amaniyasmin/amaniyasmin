@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there! 👋 I'm Yasmin Amani</h1>
+  <h1>Hello there! 👋 I'm Yasmin Amani</h1>
 
   <img src="Gambar Yasmin White BG.jpeg" alt="Yasmin Amani Profile" width="200" style="border-radius: 50%;" />
 
@@ -17,6 +17,6 @@
 
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/yasmin-a-bab150343
-- Email: yasminamani@graduate.utm
+- Email: yasminamani@graduate.utm.my
 
 *Thanks for stopping by! ✨*
